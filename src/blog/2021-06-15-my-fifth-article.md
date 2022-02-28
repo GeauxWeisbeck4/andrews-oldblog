@@ -10,9 +10,9 @@ tags:
   - post
   - featured
 image: /assets/blog/article-5.jpg
-imageAlt: This is a test
+imageAlt: Kevin Powell Rules!
 ---
-### Kevin's [YouTube Video](https://www.youtube.com/watch?v=4wD00RT6d-g) Inspired and Helped create this blog - this post is dedicated to his awesome work. Saving one of his original posts to remember how awesome this tutorial was.
+### Kevin's [YouTube Video](https://www.youtube.com/watch?v=4wD00RT6d-g) Inspired and Helped create this blog - this post is dedicated to his awesome work. Saving one of his original posts to remember how awesome this tutorial was. [Follow Kevin ](https://twitter.com/KevinJPowell)and [Support His Work](https://www.patreon.com/kevinpowell)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst.
 
