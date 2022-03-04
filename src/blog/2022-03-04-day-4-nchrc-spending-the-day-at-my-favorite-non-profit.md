@@ -3,7 +3,7 @@ title: "Day 4 - NCHRC: Spending the Day at My Favorite Non-Profit"
 description: My fiancé brought me to work with her today at the North Carolina
   Harm Reduction Coalition
 author: Andrew Weisbeck
-date: 2022-03-04T04:07:53.605Z
+date: 2022-03-04T04:58:40.967Z
 tags:
   - post
   - featured
