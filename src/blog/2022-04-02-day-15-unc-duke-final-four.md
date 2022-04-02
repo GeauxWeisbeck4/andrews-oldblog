@@ -10,7 +10,11 @@ image: /assets/blog/9aea2f18-6f4d-439a-bdea-186425ae4547.webp
 imageAlt: The Tar Heels come into the Game of the Century as the hottest team in
   the nation
 ---
-# Tar Heels Can Earn More Than Just a Title Birth
+# The Center of the Basketball Universe
+
+It's been an anxious week around the Raleigh-Durham-Chapel Hill area this week.. I just tried to get a sub from Harris Teeter for dinner before the game and the person who would have made my sandwich was a Duke fan - when we each saw the other had a different shade of blue, we didn't need to exchange words to understand that I wouldn't be having a sandwich tonight. After we exchanged brief pleasantries, I turned around and was greeted with high fives and the customary "Go Heels!" salutation by a Dad with his two daughters decked out in Baby Blue. 
+
+This week our beloved Governor Roy Cooper declared the Triangle the "Center of the College Basketball Universe". It's the first time - and quite possibly the last time - that these teams will ever meet in the tournament again. It could very well be the last time Coach K ever coaches again. 
 
 I have never been apart of something as exciting as having two local teams who are the biggest rivals in all of sports, go head to head to decide who moves on to the National Championship game on Monday to face Kansas or Villanova. But honestly, I called it - and I don't mean like I just picked my favorite team to win it all because they're my favorite. UNC is the best team in the country when they play their game and they had a huge slump in the middle of the season that worried me. 
 
