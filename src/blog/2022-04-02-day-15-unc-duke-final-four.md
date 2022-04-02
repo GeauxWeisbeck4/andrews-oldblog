@@ -40,8 +40,8 @@ UNC almost blew a huge lead to Baylor after horrible reffing allowed the Bears b
 
 Hubert Davis says its just a game basketball - all the hoo-rah around the game is just noise. If the Tar Heels can play with that mentality like they have the whole tournament, we'll have a shot at the title on Monday night.
 
+I look forward to more of this tonight:
 
-
-
+`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">UNC coach Hubert Davis overcome with emotion as his team celebrates a trip to the Final Four:<br><br>&quot;I just desperately wanted this for them. I love these guys so much.&quot; <a href="https://t.co/7ueZOn0eW4">pic.twitter.com/7ueZOn0eW4</a></p>&mdash; CBS Sports (@CBSSports) <a href="https://twitter.com/CBSSports/status/1508220960729534467?ref_src=twsrc%5Etfw">March 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 # LETS GEAUX HEELS!!!!!!
