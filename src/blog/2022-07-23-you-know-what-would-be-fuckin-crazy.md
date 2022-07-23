@@ -1,5 +1,5 @@
 ---
-title: You Know What Would Be Fuckin' Crazy?
+title: Day 16 - You Know What Would Be Fuckin' Crazy?
 description: Could something this simple work so well? Here goes the launching
   of Tar Heel Window Washin' - 'The Hardest Workin' Washers in the Whole Damn
   State'
